@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CleanCodeTraining\\Day3\\hbasket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF028BEC-AED4-47E1-8AB6-FDDAA0BFE7C5}|hamaraBasket.Tests\\hamaraBasket.Tests.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket.tests\\hamarabaskettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF028BEC-AED4-47E1-8AB6-FDDAA0BFE7C5}|hamaraBasket.Tests\\hamaraBasket.Tests.csproj|solutionrelative:hamarabasket.tests\\hamarabaskettest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\itemupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\itemupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\itemupdaterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\itemupdaterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\movieticketsupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\movieticketsupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\indianwineupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\indianwineupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\foresthoneyupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\foresthoneyupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\defaultitemupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\defaultitemupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket\\hamarabasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3704EFE-5152-42EB-9D1F-BC4B1F765A32}|hamaraBasket\\hamaraBasket.csproj|solutionrelative:hamarabasket\\hamarabasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF028BEC-AED4-47E1-8AB6-FDDAA0BFE7C5}|hamaraBasket.Tests\\hamaraBasket.Tests.csproj|d:\\cleancodetraining\\day3\\hbasket\\hamarabasket.tests\\domainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF028BEC-AED4-47E1-8AB6-FDDAA0BFE7C5}|hamaraBasket.Tests\\hamaraBasket.Tests.csproj|solutionrelative:hamarabasket.tests\\domainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemUpdater.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ItemUpdater.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\ItemUpdater.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ItemUpdater.cs",
+              "RelativeToolTip": "hamaraBasket\\ItemUpdater.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:47:20.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\Item.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\Item.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\Item.cs",
+              "RelativeToolTip": "hamaraBasket\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:45:45.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IndianWineUpdater.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\IndianWineUpdater.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\IndianWineUpdater.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\IndianWineUpdater.cs",
+              "RelativeToolTip": "hamaraBasket\\IndianWineUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:45:23.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HamaraBasketTest.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket.Tests\\HamaraBasketTest.cs",
+              "RelativeDocumentMoniker": "hamaraBasket.Tests\\HamaraBasketTest.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket.Tests\\HamaraBasketTest.cs",
+              "RelativeToolTip": "hamaraBasket.Tests\\HamaraBasketTest.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T05:22:16.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForestHoneyUpdater.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ForestHoneyUpdater.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\ForestHoneyUpdater.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ForestHoneyUpdater.cs",
+              "RelativeToolTip": "hamaraBasket\\ForestHoneyUpdater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:58:40.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemUpdaterFactory.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ItemUpdaterFactory.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\ItemUpdaterFactory.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\ItemUpdaterFactory.cs",
+              "RelativeToolTip": "hamaraBasket\\ItemUpdaterFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:15:38.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieTicketsUpdater.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\MovieTicketsUpdater.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\MovieTicketsUpdater.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\MovieTicketsUpdater.cs",
+              "RelativeToolTip": "hamaraBasket\\MovieTicketsUpdater.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:53:04.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DefaultItemUpdater.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\DefaultItemUpdater.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\DefaultItemUpdater.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\DefaultItemUpdater.cs",
+              "RelativeToolTip": "hamaraBasket\\DefaultItemUpdater.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:54:31.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HamaraBasket.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\HamaraBasket.cs",
+              "RelativeDocumentMoniker": "hamaraBasket\\HamaraBasket.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket\\HamaraBasket.cs",
+              "RelativeToolTip": "hamaraBasket\\HamaraBasket.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:04:38.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomainFactory.cs",
+              "DocumentMoniker": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket.Tests\\DomainFactory.cs",
+              "RelativeDocumentMoniker": "hamaraBasket.Tests\\DomainFactory.cs",
+              "ToolTip": "D:\\CleanCodeTraining\\Day3\\hbasket\\hamaraBasket.Tests\\DomainFactory.cs",
+              "RelativeToolTip": "hamaraBasket.Tests\\DomainFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:13:36.953Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

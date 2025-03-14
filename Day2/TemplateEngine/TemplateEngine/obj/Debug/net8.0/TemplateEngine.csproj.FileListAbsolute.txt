@@ -1,0 +1,12 @@
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\bin\Debug\net8.0\TemplateEngine.deps.json
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\bin\Debug\net8.0\TemplateEngine.dll
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\bin\Debug\net8.0\TemplateEngine.pdb
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfoInputs.cache
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.AssemblyInfo.cs
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.csproj.CoreCompileInputs.cache
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.sourcelink.json
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.dll
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\refint\TemplateEngine.dll
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\TemplateEngine.pdb
+D:\CleanCodeTraining\Day2\TemplateEngine\TemplateEngine\obj\Debug\net8.0\ref\TemplateEngine.dll
